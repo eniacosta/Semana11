@@ -90,6 +90,11 @@ margin-top: 160px;
 position: absolute;
 }
 
+ button a{
+text-decoration: none;
+	 color: white;
+}
+
 .header2 {
 	width: 100%;
 	max-width: 1000px;
