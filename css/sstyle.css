@@ -1,0 +1,221 @@
+html {
+	background-color: 
+}
+.container{
+	max-width: 1000px;
+	width: 100%;
+	margin: 0 auto;
+	: 1px solid red;
+}
+
+.sale {
+	text-align: center;
+	background-color: #edce3d;
+	padding: 8px;
+	color: white;
+	font-family: Montserrat;
+	font-size: 12px;
+	letter-spacing: 3px;
+	font-weight: bolder;
+}
+
+.sale a {
+	color: white;
+}
+
+.log p {
+	font-family: Montserrat;
+	text-align: right;
+	font-size: 10px;
+	letter-spacing: 2px;
+	padding: 5px;
+}
+
+
+.header {
+	width: 100%;
+	max-width: 1000px;
+
+	margin: 0 auto;
+	margin-top: 40px;
+	margin-bottom: 20px;
+
+}
+
+.header img {
+	width: 1000px;
+		margin: 0 auto;
+
+}
+
+h1 { font-family: Concert One;
+font-size: 60px;
+position: absolute;
+	text-align: center;
+color: white;
+margin-left: 375px;
+margin-top: 60px;
+
+}
+
+.header2 p { font-family: Montserrat;
+	color: white;
+	text-transform: uppercase;
+	font-weight: bold;
+		text-align: center;
+
+	margin-left: 395px;
+margin-top: 130px;
+position: absolute;
+letter-spacing: 1px;
+
+
+}
+ button{
+background-color: #FE584D;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    margin: 15px;
+    text-align: center;
+    letter-spacing: 1px;
+
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    font-family: Concert One;
+    text-transform: uppercase;
+    margin-left: 555px;
+margin-top: 160px;
+position: absolute;
+}
+
+.header2 {
+	width: 100%;
+	max-width: 1000px;
+
+	margin: 0 auto;
+
+}
+
+
+
+nav li a {
+		font-family: Montserrat;
+font-weight: bold;
+font-size: 12px;
+letter-spacing: 3px;
+text-transform: uppercase;
+text-decoration: none;
+	margin-bottom: 20px;
+
+color: black;
+	text-align: center;
+
+}
+
+nav li a:hover { 
+	color: #eccd4b;
+}
+
+nav li img {
+	position: absolute;
+	margin-top: -10px;
+	margin-left: -200px;
+
+}
+nav {
+	max-width: 1000px;
+	width: 100%;
+	margin: 0 auto;
+	margin-bottom: 10px;
+	text-align: right;
+	
+
+
+	   
+
+}
+nav li {
+	display: inline-block;
+	margin: 28px;
+	text-align: center;
+
+
+
+
+}
+
+h4 {
+	font-family: Concert One;
+	font-size: 35px;
+	margin-left: 35px;
+	text-transform: uppercase;
+}
+.characters {
+	max-width: 1000px;
+	margin-bottom: 50px;
+}
+
+.ch img {
+	float: left;
+		margin: 8px;
+
+}
+.ch:hover {
+	transform: scale(1.1);
+}
+
+
+footer {
+	padding-top: 20px;
+	padding: 50px;
+	clear: both;
+	background-color: #f3f3f3;
+	padding: 10px;
+		color: grey;
+		border-top: 1px solid grey;
+
+
+}
+
+footer li {
+	display: inline-block;
+		padding: 10px;
+
+	text-align: left;
+	color: grey;
+
+}
+
+footer li a {
+	font-family: Avenir Next;
+font-size: 12px;
+letter-spacing: 1px;
+text-transform: uppercase;
+text-decoration: none;
+	color: grey;
+
+
+
+color: black;
+}
+footer li img {
+	width: 100px;
+	position: absolute;
+	margin-top: 18px;
+	margin-left: 20px;
+}
+
+footer h3 {
+	font-family: Avenir Next;
+font-size: 12px;
+	text-align: left;
+			padding: 30px;
+				color: grey;
+
+
+
+}
+
+
